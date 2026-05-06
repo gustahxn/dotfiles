@@ -1,0 +1,24 @@
+2026-04-29 11:49:38.421 [info] Started local extension host with pid 8455.
+2026-04-29 11:49:38.957 [error] [GitHub.copilot-chat]: Tool set 'edit' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:49:38.957 [error] [GitHub.copilot-chat]: Tool set 'execute' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:49:38.958 [error] [GitHub.copilot-chat]: Tool set 'read' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:49:38.959 [error] [GitHub.copilot-chat]: Tool set 'search' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:49:38.960 [error] [GitHub.copilot-chat]: Tool set 'vscode' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:49:38.960 [error] [GitHub.copilot-chat]: Tool set 'web' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:49:38.971 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:49:38.971 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:49:38.971 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:49:39.133 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2026-04-29 11:49:40.255 [info] Settings Sync: Account status changed from uninitialized to available
+2026-04-29 11:49:41.586 [info] Auto updating outdated extensions. ms-azuretools.vscode-containers
+2026-04-29 11:49:41.753 [info] Auto updating outdated extensions. ms-azuretools.vscode-containers
+2026-04-29 11:49:41.774 [error] [Extension Host] (node:8455) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-29 11:49:41.809 [error] [Extension Host] (node:8455) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-29 11:49:41.926 [info] [perf] Render performance baseline is 50ms
+2026-04-29 11:49:44.878 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:49:44.879 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:49:44.880 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:50:06.277 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-04-29 11:50:06.277 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-04-29 11:50:06.278 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'

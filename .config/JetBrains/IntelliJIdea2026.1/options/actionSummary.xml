@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="10" l="1777376259346" />
+    </e>
+    <e n="EditorDown">
+      <i c="51" l="1777376235481" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1777376235975" />
+    </e>
+    <e n="EditorIncreaseFontSize">
+      <i c="8" l="1777376229413" />
+    </e>
+    <e n="EditorLeft">
+      <i c="23" l="1777376243356" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="53" l="1777376258186" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1777376258630" />
+    </e>
+    <e n="EditorRight">
+      <i c="27" l="1777376244850" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1777376247984" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1777376230959" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1777376193543" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1777376195668" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1777376152492" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1777376130844" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.ExpChooserAction">
+      <i c="1" l="1777376094412" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1777376129740" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+    "window.zoomLevel": 1,
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "workbench.activityBar.location": "bottom",
+    "security.workspace.trust.untrustedFiles": "open"
+}

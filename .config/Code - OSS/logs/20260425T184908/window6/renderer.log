@@ -1,0 +1,4 @@
+2026-04-25 18:49:19.161 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 27ms.
+2026-04-25 18:49:19.259 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 33ms.
+2026-04-25 18:49:20.167 [info] Started local extension host with pid 6513.
+2026-04-25 18:49:32.112 [info] [perf] Render performance baseline is 107ms

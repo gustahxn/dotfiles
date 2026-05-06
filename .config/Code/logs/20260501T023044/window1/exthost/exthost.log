@@ -1,0 +1,4 @@
+2026-05-01 02:30:46.224 [info] Extension host with pid 6383 started
+2026-05-01 02:30:46.224 [info] Skipping acquiring lock for /home/s/.config/Code/User/workspaceStorage/08d313fd535f6c55aed522e78ecf7eb0.
+2026-05-01 02:30:46.316 [info] Extension host terminating: received terminate message from renderer
+2026-05-01 02:30:46.317 [info] Extension host with pid 6383 exiting with code 0

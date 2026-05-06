@@ -1,0 +1,4 @@
+2026-04-25 18:49:27.274 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 22ms.
+2026-04-25 18:49:27.329 [warning] Creation of workbench contribution 'mcpContextKeys' took 24ms.
+2026-04-25 18:49:28.758 [info] Started local extension host with pid 7450.
+2026-04-25 18:49:38.196 [info] [perf] Render performance baseline is 61ms

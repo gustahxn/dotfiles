@@ -1,0 +1,13 @@
+2026-04-29 11:50:56.240 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-04-29 11:50:56.240 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-04-29 11:50:56.240 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-04-29 11:50:56.240 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-04-29 11:50:56.240 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-04-29 11:50:56.240 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-04-29 11:50:56.240 [info] Logged in as gustahxn
+2026-04-29 11:50:56.240 [info] Using the Electron fetcher.
+2026-04-29 11:50:56.240 [info] [CopilotCLI] MCP server started. Lock file: /home/s/.copilot/ide/4f3734a4-fc72-4e2b-8a10-d2db18f1488e.lock
+2026-04-29 11:50:56.240 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-xaiUwf/mcp.sock#%2Fmcp
+2026-04-29 11:50:56.240 [info] [CopilotCLIChatSessionContentProvider] listSessions took 1012.4487210000002ms
+2026-04-29 11:50:56.240 [info] [CopilotCLIChatSessionContentProvider] listSessions took 623.0176240000001ms
+2026-04-29 11:50:56.382 [error] Error getting a session: Canceled: Canceled

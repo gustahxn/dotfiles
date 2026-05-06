@@ -1,0 +1,3 @@
+2026-04-29 11:50:07.186 [info] Extension host started
+2026-04-29 11:50:07.186 [info] Eager extensions activated
+2026-04-29 11:50:21.543 [info] ExtensionService#_doActivateExtension pomdtr.excalidraw-editor, startup: false, activationEvent: 'onCommand:excalidraw.newFile'

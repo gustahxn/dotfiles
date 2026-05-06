@@ -1,0 +1,43 @@
+ #selecionador de wallpaper
+wallpicker() {
+
+    local wall_dir="/home/s/Imagens/Walls"
+    if [[ ! -d "$wall_dir" ]]; then
+        echo "Erro: Diretório $wall_dir não encontrado."
+        return 1
+    fi
+
+    # fzf 
+    find "$wall_dir" -type f \( -iname \*.jpg -o -iname \*.png -o -iname \*.jpeg \) | \
+        fzf --prompt="Escolha (ctrl + c para sair!) " \
+            --layout=reverse \
+            --border \
+            --color="prompt:#cccccc,pointer:#cccccc,marker:#cccccc,info:#cccccc,hl:#cccccc,hl+:#cccccc" \
+            --preview="printf '\e_Ga=d\e\\'; chafa --format=kitty --size \${FZF_PREVIEW_COLUMNS}x\${FZF_PREVIEW_LINES} {}" \
+            --preview-window=right:50%:wrap \
+            --bind "enter:execute-silent(killall swaybg 2>/dev/null; swaybg -m fill -i {} > /dev/null 2>&1 & ln -sf {} ${wall_dir}/atual.png; notify-send 'Wallpaper Aplicado' '{/}')"
+
+}
+
+
+HISTFILE=~/.zsh_history
+HISTSIZE=10000
+SAVEHIST=10000
+setopt appendhistory
+
+alias ls='ls --color=auto'
+alias ll='ls -lah'
+alias v='nvim'
+alias off='poweroff'
+alias wm='niri-session'
+alias gc='git clone'
+
+# Inicializa o prompt primeiro
+eval "$(starship init zsh)"
+
+# Ativa os plugins por ÚLTIMO (A ordem aqui importa)
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+#sqldeveloper
+export _JAVA_AWT_WM_NONREPARENTING=1

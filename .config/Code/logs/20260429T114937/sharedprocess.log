@@ -1,0 +1,7 @@
+2026-04-29 11:49:42.759 [info] Getting Manifest... ms-azuretools.vscode-containers
+2026-04-29 11:49:42.859 [info] Installing extension: ms-azuretools.vscode-containers {"productVersion":{"version":"1.117.0","date":"2026-04-21T16:12:14-07:00"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/s/.vscode/extensions/extensions.json","path":"/home/s/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-04-29 11:49:44.446 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 989ms.
+2026-04-29 11:49:44.718 [info] Extracted extension to file:///home/s/.vscode/extensions/ms-azuretools.vscode-containers-2.4.3: ms-azuretools.vscode-containers
+2026-04-29 11:49:44.734 [info] Renamed to /home/s/.vscode/extensions/ms-azuretools.vscode-containers-2.4.3
+2026-04-29 11:49:44.776 [info] Marked extension as removed ms-azuretools.vscode-containers-2.4.2
+2026-04-29 11:49:44.833 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/s/.vscode/extensions/extensions.json

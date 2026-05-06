@@ -1,0 +1,97 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "ecb6fae5577cc206754a9bee488f591c0f933c7193e0aa59f4c308f2995ef4aa",
+    "telemetry.devDeviceId": "c66f4f0c-8dff-402a-b6ea-ad5642b61087",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/s/.config/waybar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/s": "__default__profile__",
+            "file:///home/s/.config/waybar": "__default__profile__",
+            "file:///home/s/repos/ED": "__default__profile__",
+            "file:///home/s/repos": "__default__profile__",
+            "file:///home/s/.config/niri": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 1,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/s/.config/waybar",
+            "backupPath": "/home/s/.config/Code/Backups/a692d6fc608d6629f29ca3ec4ddb54ff",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 945,
+                "height": 1036
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 196,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "7c39ac5e69fed4bbed61ad019f2a6293": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "156c145ada3870a07271b7749a61aba7": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "20cc59743d76b9b266501295710c112e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3c2dae3be1d9c62e4f80d3dd1893cb97": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "08d313fd535f6c55aed522e78ecf7eb0": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

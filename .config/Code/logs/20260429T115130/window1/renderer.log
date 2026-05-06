@@ -1,0 +1,20 @@
+2026-04-29 11:51:31.592 [info] Started local extension host with pid 10411.
+2026-04-29 11:51:31.675 [error] [GitHub.copilot-chat]: Tool set 'edit' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:51:31.676 [error] [GitHub.copilot-chat]: Tool set 'execute' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:51:31.677 [error] [GitHub.copilot-chat]: Tool set 'read' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:51:31.678 [error] [GitHub.copilot-chat]: Tool set 'search' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:51:31.678 [error] [GitHub.copilot-chat]: Tool set 'vscode' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:51:31.679 [error] [GitHub.copilot-chat]: Tool set 'web' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:51:31.688 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:51:31.689 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:51:31.689 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:51:31.850 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2026-04-29 11:51:32.829 [error] Canceled: Canceled
+    at zI (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:383:1431)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4930:47396
+    at Array.forEach (<anonymous>)
+    at a.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4930:47304)
+    at S1.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4930:60603)
+    at C2i.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4937:10470)
+    at w2i.stopAllInReverse (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4937:9610)
+    at async Amt._doStopExtensionHosts (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:4936:22317)

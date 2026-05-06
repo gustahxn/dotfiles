@@ -1,0 +1,49 @@
+ERROR:1,1-1,17:package exists in another module\d java.base
+ERROR:7,34-7,52:cannot find symbol\n  symbol\d class FilterOutputStream
+ERROR:7,76-7,85:cannot find symbol\n  symbol\d class Closeable
+ERROR:13,13-13,27:cannot find symbol\n  symbol\d   class BufferedWriter\n  location\d class java.io.PrintStream
+ERROR:14,13-14,31:cannot find symbol\n  symbol\d   class OutputStreamWriter\n  location\d class java.io.PrintStream
+ERROR:32,57-32,85:cannot find symbol\n  symbol\d   class UnsupportedEncodingException\n  location\d class java.io.PrintStream
+ERROR:55,44-55,56:cannot find symbol\n  symbol\d   class OutputStream\n  location\d class java.io.PrintStream
+ERROR:101,61-101,73:cannot find symbol\n  symbol\d   class OutputStream\n  location\d class java.io.PrintStream
+ERROR:113,24-113,36:cannot find symbol\n  symbol\d   class OutputStream\n  location\d class java.io.PrintStream
+ERROR:124,24-124,36:cannot find symbol\n  symbol\d   class OutputStream\n  location\d class java.io.PrintStream
+ERROR:138,24-138,36:cannot find symbol\n  symbol\d   class OutputStream\n  location\d class java.io.PrintStream
+ERROR:138,85-138,113:cannot find symbol\n  symbol\d   class UnsupportedEncodingException\n  location\d class java.io.PrintStream
+ERROR:154,24-154,36:cannot find symbol\n  symbol\d   class OutputStream\n  location\d class java.io.PrintStream
+ERROR:190,48-190,69:cannot find symbol\n  symbol\d   class FileNotFoundException\n  location\d class java.io.PrintStream
+ERROR:204,60-204,81:cannot find symbol\n  symbol\d   class FileNotFoundException\n  location\d class java.io.PrintStream
+ERROR:204,83-204,111:cannot find symbol\n  symbol\d   class UnsupportedEncodingException\n  location\d class java.io.PrintStream
+ERROR:220,65-220,76:cannot find symbol\n  symbol\d   class IOException\n  location\d class java.io.PrintStream
+ERROR:238,24-238,28:cannot find symbol\n  symbol\d   class File\n  location\d class java.io.PrintStream
+ERROR:238,42-238,63:cannot find symbol\n  symbol\d   class FileNotFoundException\n  location\d class java.io.PrintStream
+ERROR:252,24-252,28:cannot find symbol\n  symbol\d   class File\n  location\d class java.io.PrintStream
+ERROR:252,54-252,75:cannot find symbol\n  symbol\d   class FileNotFoundException\n  location\d class java.io.PrintStream
+ERROR:252,77-252,105:cannot find symbol\n  symbol\d   class UnsupportedEncodingException\n  location\d class java.io.PrintStream
+ERROR:268,24-268,28:cannot find symbol\n  symbol\d   class File\n  location\d class java.io.PrintStream
+ERROR:268,59-268,70:cannot find symbol\n  symbol\d   class IOException\n  location\d class java.io.PrintStream
+ERROR:286,38-286,49:cannot find symbol\n  symbol\d   class IOException\n  location\d class java.io.PrintStream
+ERROR:518,42-518,53:cannot find symbol\n  symbol\d   class IOException\n  location\d class java.io.PrintStream
+ERROR:17,79-30,6:missing return statement
+ERROR:32,86-53,6:missing return statement
+ERROR:385,33-409,6:missing return statement
+ERROR:1244,61-1253,6:missing return statement
+ERROR:1255,71-1265,6:missing return statement
+ERROR:1267,61-1320,6:missing return statement
+ERROR:1322,71-1374,6:missing return statement
+ERROR:1376,49-1386,6:missing return statement
+ERROR:1388,69-1403,6:missing return statement
+ERROR:1405,39-1414,6:missing return statement
+ERROR:1416,30-1423,6:missing return statement
+ERROR:55,62-99,6:variable autoFlush might not have been initialized
+ERROR:101,79-111,6:variable autoFlush might not have been initialized
+ERROR:113,42-122,6:variable autoFlush might not have been initialized
+ERROR:124,61-136,6:variable autoFlush might not have been initialized
+ERROR:138,114-152,6:variable autoFlush might not have been initialized
+ERROR:154,78-188,6:variable autoFlush might not have been initialized
+ERROR:190,70-202,6:variable autoFlush might not have been initialized
+ERROR:204,112-218,6:variable autoFlush might not have been initialized
+ERROR:220,77-236,6:variable autoFlush might not have been initialized
+ERROR:238,64-250,6:variable autoFlush might not have been initialized
+ERROR:252,106-266,6:variable autoFlush might not have been initialized
+ERROR:268,71-284,6:variable autoFlush might not have been initialized

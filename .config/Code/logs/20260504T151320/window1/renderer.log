@@ -1,0 +1,41 @@
+2026-05-04 15:13:21.575 [info] Started local extension host with pid 4965.
+2026-05-04 15:13:21.687 [error] [GitHub.copilot-chat]: Tool set 'edit' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:13:21.688 [error] [GitHub.copilot-chat]: Tool set 'execute' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:13:21.689 [error] [GitHub.copilot-chat]: Tool set 'read' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:13:21.691 [error] [GitHub.copilot-chat]: Tool set 'search' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:13:21.692 [error] [GitHub.copilot-chat]: Tool set 'vscode' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:13:21.693 [error] [GitHub.copilot-chat]: Tool set 'web' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:13:21.706 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-05-04 15:13:21.706 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-05-04 15:13:21.706 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-05-04 15:13:21.826 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2026-05-04 15:13:22.738 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-04 15:13:24.004 [error] [Extension Host] (node:4965) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-05-04 15:13:24.005 [error] [Extension Host] (node:4965) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-05-04 15:13:24.446 [info] [perf] Render performance baseline is 40ms
+2026-05-04 15:13:24.460 [info] Settings Sync: Account status changed from uninitialized to available
+2026-05-04 15:13:24.530 [info] Auto updating outdated extensions. ms-ceintl.vscode-language-pack-pt-br
+2026-05-04 15:13:27.739 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-04 15:14:28.282 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-05-04 15:14:28.282 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-05-04 15:14:28.283 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'
+2026-05-04 15:14:28.965 [info] Started local extension host with pid 5534.
+2026-05-04 15:14:29.576 [error] [GitHub.copilot-chat]: Tool set 'edit' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:14:29.577 [error] [GitHub.copilot-chat]: Tool set 'execute' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:14:29.578 [error] [GitHub.copilot-chat]: Tool set 'read' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:14:29.579 [error] [GitHub.copilot-chat]: Tool set 'search' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:14:29.580 [error] [GitHub.copilot-chat]: Tool set 'vscode' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:14:29.582 [error] [GitHub.copilot-chat]: Tool set 'web' CANNOT have an empty tools array (none of the tools were found)
+2026-05-04 15:14:29.594 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-05-04 15:14:29.594 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-05-04 15:14:29.594 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-05-04 15:14:29.751 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2026-05-04 15:14:30.457 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-04 15:14:30.838 [info] Settings Sync: Account status changed from uninitialized to available
+2026-05-04 15:14:31.901 [error] [Extension Host] (node:5534) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-05-04 15:14:31.901 [error] [Extension Host] (node:5534) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-05-04 15:14:35.458 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-05-04 15:14:36.907 [info] [perf] Render performance baseline is 25ms
+2026-05-04 15:20:07.170 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay, terminal.integrated.enableKittyKeyboardProtocol, terminal.integrated.enableWin32InputMode, chat.artifacts.enabled, chat.artifacts.rules.byFilePath, chat.artifacts.rules.byMemoryFilePath, chat.artifacts.rules.byMimeType, chat.autopilot.enabled, chat.autoReply, chat.contextUsage.enabled, chat.customizations.harnessSelector.enabled, chat.editing.revealNextChangeOnResolve, chat.experimental.incrementalRendering.animationStyle, chat.experimental.incrementalRendering.buffering, chat.experimental.incrementalRendering.enabled, chat.experimental.symbolTools.cacheStable, chat.experimentalSessionsWindowOverride, chat.exploreAgent.defaultModel, chat.generalPurposeAgent.enabled, chat.growthNotification.enabled, chat.newSession.defaultMode, chat.permissions.default, chat.persistentProgress.enabled, chat.pluginLocations, chat.plugins.enabled, chat.plugins.marketplaces, chat.progressBorder.enabled, chat.signInTitleBar.enabled, chat.subagents.allowInvocationsFromSubagents, chat.upvoteAnimation, chat.useClaudeHooks, chat.useCustomizationsInParentRepositories, imageCarousel.chat.enabled, imageCarousel.explorerContextMenu.enabled, accessibility.signals.chatResponseReceived, accessibility.signals.chatUserActionRequired

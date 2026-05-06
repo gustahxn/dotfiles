@@ -1,0 +1,4 @@
+2026-04-25 18:49:36.202 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 21ms.
+2026-04-25 18:49:37.064 [info] Started local extension host with pid 7829.
+2026-04-25 18:49:37.757 [warning] [backup tracker] suspended, ignoring unregister event vscode-userdata:/home/s/.config/Code%20-%20OSS/User/chatLanguageModels.json 
+2026-04-25 18:49:38.851 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.stopExtensionHosts

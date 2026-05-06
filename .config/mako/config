@@ -1,0 +1,22 @@
+max-visible=3
+layer=overlay
+anchor=top-right
+width=220
+margin=15
+padding=12
+border-size=1
+border-radius=12
+font=Inter 10
+default-timeout=3000
+
+background-color=#0d0d0fdd
+text-color=#e0e0e0ff
+border-color=#1c1c21ff
+
+[category=keyboard]
+border-color=#d2dadd7c
+font=Inter Bold 10
+default-timeout=1000
+
+[app-name=niri]
+invisible=1

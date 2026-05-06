@@ -1,0 +1,8 @@
+2026-04-25 18:49:17.690 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 29ms.
+2026-04-25 18:49:17.823 [warning] Creation of workbench contribution 'chatEditingNotebookFileSystemProviderContribution' took 22ms.
+2026-04-25 18:49:17.888 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 31ms.
+2026-04-25 18:49:17.999 [warning] Creation of workbench contribution 'workbench.contrib.textMateTokenizationInstantiator' took 33ms.
+2026-04-25 18:49:18.153 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 55ms.
+2026-04-25 18:49:18.159 [warning] Creation of workbench contribution 'workbench.contrib.chatStatusBarEntry' took 21ms.
+2026-04-25 18:49:19.729 [info] Started local extension host with pid 6435.
+2026-04-25 18:49:30.441 [info] [perf] Render performance baseline is 79ms

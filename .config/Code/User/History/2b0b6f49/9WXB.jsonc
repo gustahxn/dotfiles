@@ -1,0 +1,47 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 22,
+  "modules-left": ["niri/workspaces"],
+  "modules-center": [],
+  "modules-right": ["group/power", "clock"],
+
+  "niri/workspaces": {
+    "format": "{index}",
+    "all-outputs": true,
+    "on-scroll-up": "niri msg action focus-workspace-up",
+    "on-scroll-down": "niri msg action focus-workspace-down",
+  },
+
+  "clock": {
+    "format": "{:%H:%M  |  %d/%m}",
+    "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+  },
+
+  "group/power": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 300,
+      "children-class": "not-power",
+      "transition-left-to-right": false,
+    },
+    "modules": ["custom/power", "custom/reboot", "custom/shutdown"],
+  },
+
+  "custom/power": {
+    "format": "<",
+    "tooltip": false,
+  },
+
+  "custom/shutdown": {
+    "format": "⏻",
+    "tooltip": "Desligar",
+    "on-click": "systemctl poweroff",
+  },
+
+  "custom/reboot": {
+    "format": "",
+    "tooltip": "Reiniciar",
+    "on-click": "systemctl reboot",
+  },
+}

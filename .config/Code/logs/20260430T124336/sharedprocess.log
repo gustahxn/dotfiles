@@ -1,0 +1,7 @@
+2026-04-30 12:43:42.831 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2026-04-30 12:43:42.912 [info] Installing extension: ms-vscode-remote.remote-containers {"productVersion":{"version":"1.117.0","date":"2026-04-21T16:12:14-07:00"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/s/.vscode/extensions/extensions.json","path":"/home/s/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-04-30 12:43:44.233 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Internal Code: 0. Executed: true. Duration: 691ms.
+2026-04-30 12:43:44.331 [info] Extracted extension to file:///home/s/.vscode/extensions/ms-vscode-remote.remote-containers-0.457.0: ms-vscode-remote.remote-containers
+2026-04-30 12:43:44.341 [info] Renamed to /home/s/.vscode/extensions/ms-vscode-remote.remote-containers-0.457.0
+2026-04-30 12:43:44.359 [info] Marked extension as removed ms-vscode-remote.remote-containers-0.454.0
+2026-04-30 12:43:44.364 [info] Extension installed successfully: ms-vscode-remote.remote-containers vscode-userdata:/home/s/.vscode/extensions/extensions.json

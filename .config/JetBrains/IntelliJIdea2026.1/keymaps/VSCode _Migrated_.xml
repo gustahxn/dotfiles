@@ -1,0 +1,6 @@
+<keymap version="1" name="VSCode (Migrated)" parent="VSCode">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
+</keymap>

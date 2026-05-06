@@ -1,0 +1,12 @@
+2026-05-01 02:30:45.406 [info] Started local extension host with pid 6383.
+2026-05-01 02:30:45.906 [error] [GitHub.copilot-chat]: Tool set 'edit' CANNOT have an empty tools array (none of the tools were found)
+2026-05-01 02:30:45.907 [error] [GitHub.copilot-chat]: Tool set 'execute' CANNOT have an empty tools array (none of the tools were found)
+2026-05-01 02:30:45.908 [error] [GitHub.copilot-chat]: Tool set 'read' CANNOT have an empty tools array (none of the tools were found)
+2026-05-01 02:30:45.908 [error] [GitHub.copilot-chat]: Tool set 'search' CANNOT have an empty tools array (none of the tools were found)
+2026-05-01 02:30:45.909 [error] [GitHub.copilot-chat]: Tool set 'vscode' CANNOT have an empty tools array (none of the tools were found)
+2026-05-01 02:30:45.910 [error] [GitHub.copilot-chat]: Tool set 'web' CANNOT have an empty tools array (none of the tools were found)
+2026-05-01 02:30:45.921 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-05-01 02:30:45.922 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-05-01 02:30:45.922 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-05-01 02:30:46.080 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2026-05-01 02:30:46.317 [warning] [DefaultAccount] Attempt 1 to get sessions failed: Canceled

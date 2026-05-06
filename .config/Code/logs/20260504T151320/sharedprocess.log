@@ -1,0 +1,8 @@
+2026-05-04 15:13:25.737 [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+2026-05-04 15:13:25.812 [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br {"productVersion":{"version":"1.118.1","date":"2026-04-29T17:36:44+03:00"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/s/.vscode/extensions/extensions.json","path":"/home/s/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-05-04 15:13:27.041 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-pt-br: Success. Internal Code: 0. Executed: true. Duration: 779ms.
+2026-05-04 15:13:27.114 [info] Extracted extension to file:///home/s/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.118.2026050120: ms-ceintl.vscode-language-pack-pt-br
+2026-05-04 15:13:27.120 [info] Renamed to /home/s/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.118.2026050120
+2026-05-04 15:13:27.130 [info] Marked extension as removed ms-ceintl.vscode-language-pack-pt-br-1.110.2026041514
+2026-05-04 15:13:27.140 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+2026-05-04 15:13:27.173 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br vscode-userdata:/home/s/.vscode/extensions/extensions.json

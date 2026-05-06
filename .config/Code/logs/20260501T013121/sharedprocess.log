@@ -1,0 +1,15 @@
+2026-05-01 01:31:23.604 [info] Marked extension as removed ms-vscode-remote.remote-containers-0.454.0
+2026-05-01 01:31:23.815 [info] Removing stale auto-update builtin extensions: github.copilot-chat@0.45.1
+2026-05-01 01:31:24.001 [error] Error: Unable to read file '/home/s/.vscode/extensions/github.copilot-chat-0.45.1/package.json' (Error: Unable to resolve nonexistent file '/home/s/.vscode/extensions/github.copilot-chat-0.45.1/package.json')
+    at Ci.restoreReadError (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:109787)
+    at Ci.doReadFileStream (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:109570)
+    at async Ci.doReadFile (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:108834)
+    at async Zs.scanExtensionManifest (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:54260)
+    at async Zs.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:52459)
+    at async Na.scanExistingExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:42584)
+    at async Pc.scanUserExtensionAtLocation (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:85034)
+    at async Promise.all (index 0)
+    at async _p.onDidRemoveExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:450:70405)
+2026-05-01 01:31:24.001 [info] Extension not found at the location file:///home/s/.vscode/extensions/github.copilot-chat-0.45.1
+2026-05-01 01:31:24.011 [info] Deleted stale auto-update builtin extension from disk github.copilot-chat /home/s/.vscode/extensions/github.copilot-chat-0.45.1
+2026-05-01 01:31:24.059 [info] Deleted marked for removal extension from disk ms-vscode-remote.remote-containers /home/s/.vscode/extensions/ms-vscode-remote.remote-containers-0.454.0

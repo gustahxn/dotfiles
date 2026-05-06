@@ -1,0 +1,9 @@
+2026-04-29 11:51:19.106 [warning] /home/s/.ssh/config: ENOENT: no such file or directory, open '/home/s/.ssh/config'
+2026-04-29 11:51:19.106 [info] [Activation] Extension version: 0.140.0
+2026-04-29 11:51:19.271 [info] [Authentication] Creating hub for .com
+2026-04-29 11:51:19.388 [info] [Activation] Registering built in git provider.
+2026-04-29 11:51:19.388 [info] [Activation] Looking for git repository
+2026-04-29 11:51:19.388 [info] [Activation] Found 0 repositories during activation
+2026-04-29 11:51:19.388 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2026-04-29 11:51:19.389 [info] [GitAPI] Registering git provider
+2026-04-29 11:51:19.416 [info] [GitPostCommitCommands] Trying to register post commit commands.

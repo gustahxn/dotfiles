@@ -1,0 +1,33 @@
+2026-04-29 11:51:19.250 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2026-04-29 11:51:19.250 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2026-04-29 11:51:19.250 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2026-04-29 11:51:19.250 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2026-04-29 11:51:19.250 [info] ConversationFeature: Waiting for copilot token to activate conversation feature
+2026-04-29 11:51:19.250 [info] [CopilotCLI] OpenTelemetry enabled: exporter=file, source=github.copilot
+2026-04-29 11:51:19.250 [info] [CopilotCLI] Cleaned up 1 stale lock file(s).
+2026-04-29 11:51:19.250 [info] [CopilotCLI] MCP server started. Lock file: /home/s/.copilot/ide/6aea5d45-1aa0-4fb4-aec4-a7054d1756fc.lock
+2026-04-29 11:51:19.250 [info] [CopilotCLI] Server URI: unix:/tmp/mcp-UOUKe8/mcp.sock#%2Fmcp
+2026-04-29 11:51:19.250 [info] [CopilotCLIChatSessionContentProvider] listSessions took 770.7281389999998ms
+2026-04-29 11:51:19.250 [info] [CopilotCLIChatSessionContentProvider] listSessions took 392.6541769999999ms
+2026-04-29 11:51:19.250 [info] Logged in as gustahxn
+2026-04-29 11:51:19.250 [info] Using the Electron fetcher.
+2026-04-29 11:51:19.642 [info] Got Copilot token for gustahxn
+2026-04-29 11:51:19.642 [info] Copilot Chat: 0.45.1, VS Code: 1.117.0
+2026-04-29 11:51:19.648 [info] [context keys] Setting context key: github.copilot-chat.activated
+2026-04-29 11:51:19.649 [info] activationBlocker from 'languageModelAccess' took for 1507ms
+2026-04-29 11:51:19.686 [info] AuthenticationService: firing onDidAuthenticationChange from handleAuthChangeEvent. Has token: true
+2026-04-29 11:51:19.686 [info] copilot token sku: free_limited_copilot
+2026-04-29 11:51:19.686 [info] ConversationFeature: Activating contributions
+2026-04-29 11:51:19.697 [info] Registering default platform agent...
+2026-04-29 11:51:19.697 [info] ConversationFeature: onDidAuthenticationChange has token: true
+2026-04-29 11:51:19.698 [info] [code-referencing] Public code references are enabled.
+2026-04-29 11:51:19.698 [info] activationBlocker from 'conversationFeature' took for 1565ms
+2026-04-29 11:51:19.700 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary. Deprecated: 
+2026-04-29 11:51:19.701 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2026-04-29 11:51:19.702 [info] Successfully activated the GitHub.vscode-pull-request-github extension.
+2026-04-29 11:51:19.702 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2026-04-29 11:51:19.702 [info] Successfully registered GitHub PR title and description provider.
+2026-04-29 11:51:19.713 [info] BYOK: Copilot Chat known models list fetched successfully.
+2026-04-29 11:51:20.082 [info] Fetched model metadata in 1930ms 09142bc9-478d-4678-9725-04a90e1f4c5e
+2026-04-29 11:51:20.224 [info] Latest entry: ccreq:latest.copilotmd
+2026-04-29 11:51:20.226 [info] ccreq:197f81f2.copilotmd | markdown

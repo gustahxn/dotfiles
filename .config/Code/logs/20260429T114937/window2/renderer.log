@@ -1,0 +1,20 @@
+2026-04-29 11:50:05.962 [info] Started local extension host with pid 9164.
+2026-04-29 11:50:06.633 [error] [GitHub.copilot-chat]: Tool set 'edit' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:50:06.634 [error] [GitHub.copilot-chat]: Tool set 'execute' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:50:06.636 [error] [GitHub.copilot-chat]: Tool set 'read' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:50:06.637 [error] [GitHub.copilot-chat]: Tool set 'search' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:50:06.639 [error] [GitHub.copilot-chat]: Tool set 'vscode' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:50:06.640 [error] [GitHub.copilot-chat]: Tool set 'web' CANNOT have an empty tools array (none of the tools were found)
+2026-04-29 11:50:06.652 [info] [Oracle.oracle-java]: Command `workbench.action.debug.run` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:50:06.653 [info] [Oracle.oracle-java]: Command `workbench.action.debug.start` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:50:06.653 [info] [Oracle.oracle-java]: Command `jdk.select.editor.projects` already registered by Java (Oracle.oracle-java)
+2026-04-29 11:50:06.747 [info] Creating lazy extension host (LocalWebWorker). Reason: contains 1 extension(s): pomdtr.excalidraw-editor.
+2026-04-29 11:50:08.344 [error] [Extension Host] (node:9164) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-29 11:50:08.345 [error] [Extension Host] (node:9164) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-29 11:50:08.741 [info] Settings Sync: Account status changed from uninitialized to available
+2026-04-29 11:50:08.969 [info] [perf] Render performance baseline is 24ms
+2026-04-29 11:50:29.363 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/s/.vscode/extensions/pomdtr.excalidraw-editor-3.9.1/webview/dist/fonts/Excalifont/Excalifont-Regular-a88b72a24fb54c9f94e3b5fdaa7481c9.woff2, resourceToLoad=file:///home/s/.vscode/extensions/pomdtr.excalidraw-editor-3.9.1/webview/dist/fonts/Excalifont/Excalifont-Regular-a88b72a24fb54c9f94e3b5fdaa7481c9.woff2
+2026-04-29 11:50:40.154 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-04-29 11:50:40.155 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-04-29 11:50:40.155 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'

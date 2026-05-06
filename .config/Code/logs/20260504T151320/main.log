@@ -1,0 +1,9 @@
+2026-05-04 15:13:20.673 [info] StorageMainService: creating application shared storage
+2026-05-04 15:13:20.673 [info] StorageMainService: creating application shared storage with local application storage fallback
+2026-05-04 15:13:20.673 [info] [shared storage] Creating shared storage database at '/home/s/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-05-04 15:13:20.673 [info] [shared storage] Initializing fallback application storage (type: local, path: /home/s/.config/Code/User/globalStorage/state.vscdb)
+2026-05-04 15:13:20.761 [info] [shared storage] Fallback application storage initialized with 183 items
+2026-05-04 15:13:20.762 [info] update#setState idle
+2026-05-04 15:13:50.765 [info] update#setState checking for updates
+2026-05-04 15:13:50.975 [info] update#setState idle
+2026-05-04 15:14:28.295 [info] Extension host with pid 4965 exited with code: 0, signal: unknown.

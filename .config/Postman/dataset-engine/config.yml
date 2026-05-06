@@ -1,0 +1,10 @@
+storage:
+  data_dir: "/home/s/.config/Postman/dataset-engine/data"
+interfaces:
+  http:
+    enabled: true
+    address: "127.0.0.1:38479"
+  websocket:
+    enabled: false
+  ipc:
+    enabled: true

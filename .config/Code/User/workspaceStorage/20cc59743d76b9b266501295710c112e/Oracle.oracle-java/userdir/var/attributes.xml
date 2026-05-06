@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="|home|s|.config|Code|User|workspaceStorage|20cc59743d76b9b266501295710c112e|Oracle.oracle-java|userdir|var|cache|index|s5|java|15|gensrc">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+    <fileobject name="|home|s|.config|Code|User|workspaceStorage|20cc59743d76b9b266501295710c112e|Oracle.oracle-java|userdir|var|cache|index|s5|java|15|gensrc|java|io|PrintStream.java">
+        <attr name="classfile-binaryName" stringvalue="java/io/PrintStream"/>
+        <attr name="classfile-root" urlvalue="nbjrt:file:/usr/lib/jvm/default/!/modules/java.base/"/>
+        <attr name="classfile-sourcefile" stringvalue="PrintStream.java"/>
+        <attr name="disable-java-errors" boolvalue="true"/>
+        <attr name="origin-hash" stringvalue="511F1BDE351CEA1128BF576D4CC4FDB4"/>
+    </fileobject>
+    <fileobject name="|home|s|.config|Code|User|workspaceStorage|20cc59743d76b9b266501295710c112e|Oracle.oracle-java|userdir|var|cache|index|s5|java|15|gensrc|java|lang|Integer.java">
+        <attr name="classfile-binaryName" stringvalue="java/lang/Integer"/>
+        <attr name="classfile-root" urlvalue="nbjrt:file:/usr/lib/jvm/default/!/modules/java.base/"/>
+        <attr name="classfile-sourcefile" stringvalue="Integer.java"/>
+        <attr name="disable-java-errors" boolvalue="true"/>
+        <attr name="origin-hash" stringvalue="3B90D5EB7DB73F0583F7339146C63340"/>
+    </fileobject>
+    <fileobject name="|home|s|.config|Code|User|workspaceStorage|20cc59743d76b9b266501295710c112e|Oracle.oracle-java|userdir|var|cache|index|s5|java|15|gensrc|java|lang|System.java">
+        <attr name="classfile-binaryName" stringvalue="java/lang/System"/>
+        <attr name="classfile-root" urlvalue="nbjrt:file:/usr/lib/jvm/default/!/modules/java.base/"/>
+        <attr name="classfile-sourcefile" stringvalue="System.java"/>
+        <attr name="disable-java-errors" boolvalue="true"/>
+        <attr name="origin-hash" stringvalue="E4F1697C75B6577B514CB360AD2F6AFB"/>
+    </fileobject>
+    <fileobject name="|home|s|repos|ED">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+    <fileobject name="|home|s|repos|ED|prova1">
+        <attr name="register_root" boolvalue="false"/>
+        <attr name="single_file_vm_options" stringvalue=""/>
+    </fileobject>
+</attributes>
